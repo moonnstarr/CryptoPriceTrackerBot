@@ -79,8 +79,8 @@ class CryptoTracker:
             return None
 
         # Clients API
-        api = "hYDk9rJChtP51A310z7irr8VPE7SQZ7FUAMBPiyyduRs6gxqOUMxljXyO1cMXyTx"
-        secret = "JfIw3c2nwzuVsffD8TOzQ1HLoLobUGQUsgOoWG8fXYtHPy0Vi0qcTCaC1I5NoENM"
+        api = "{your API Key}"
+        secret = "{your APi secret}"
         client = Client(api, secret)
 
         # GET HISTORICAL CRYPTO OHLC VALUES
