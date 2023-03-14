@@ -25,5 +25,5 @@ To use the CryptoPriceTrackerBot, follow these steps:
 
 <h2>Feedback and Support</h2>
 
-<b>If you have any feedback or need support using the CryptoPriceTrackerBot, you can contact the developer by sending an email to support@avionanalytics.com. 
+<b>If you have any feedback or need support using the CryptoPriceTrackerBot, you can contact the developer by sending an email to info@avionanalytics.com. 
 We appreciate your feedback and will do our best to respond to your inquiries in a timely manner.</b>
