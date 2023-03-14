@@ -1,6 +1,6 @@
 <h1>CryptoPriceTrackerBot</h1>
 
-CryptoPriceTrackerBot can generate crypto prices for 8 consecutive days including 1 day prior and 7 days forward from the date and the crypto symbol loaded as csv.
+<b>CryptoPriceTrackerBot can generate crypto prices for 8 consecutive days including 1 day prior and 7 days forward from the date and the crypto symbol loaded as csv.</b>
 
 <h2>Features</h2>
 
